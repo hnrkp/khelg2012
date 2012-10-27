@@ -1,0 +1,34 @@
+GDB like a baws
+
+
+  * Riktiga programmerare kör CLI.
+  * The bare basics
+   - gdb program -- param r kör break step osv
+   - Attach:a körande
+   - bt, bt full, set(!), call(!!), info reg, x, p, etc.
+   - GCC och optimering...
+   - Cast:a saker, anropa sizeof, etc.
+
+  * Coola grejer
+   - Watchpoints
+   - Read/write breakpoints
+   - Conditional breakpoints
+     + break frik.c:13 thread 28 if bartab > lim !!
+   - Non-stop mode
+   - Backwards stepping / Reverse debugging (no ETM!)
+  * Avancerat?
+   - layout asm
+   - x/5i
+   - x/8wx
+   - x/s
+  * Python scripting!
+   - !!!! :D
+
+  * GDB remote (gdbserver android, etc)
+
+  * disass
+  * DUMPS!
+   - ulimit -c
+   - Krash under körning med gdb, skapa dump!
+   - Läs in dump i efterhand
+   - ...det är ju en ELF!
