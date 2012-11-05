@@ -5,7 +5,7 @@ GDB like a baws
   * The bare basics
    - gdb program -- param r kör break step osv
    - Attach:a körande
-   - bt, bt full, set(!), call(!!), info reg, x, p, etc.
+   - bt, bt full, set(!), call(!!), info reg, x, p, threads(!!!), etc.
    - GCC och optimering...
    - Cast:a saker, anropa sizeof, etc.
 
