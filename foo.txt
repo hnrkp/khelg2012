@@ -4,14 +4,15 @@ GDB like a baws
   * Riktiga programmerare kör CLI.
   * The bare basics
    - gdb program -- param r kör break step osv
+     + step = step into, next ej in i anrop.
    - Attach:a körande
    - bt, bt full, set(!), call(!!), info reg, x, p, threads(!!!), etc.
+   - t a a bt
    - GCC och optimering...
    - Cast:a saker, anropa sizeof, etc.
 
   * Coola grejer
-   - Watchpoints
-   - Read/write breakpoints
+   - Watchpoints (read/write)
    - Conditional breakpoints
      + break frik.c:13 thread 28 if bartab > lim !!
    - Non-stop mode
