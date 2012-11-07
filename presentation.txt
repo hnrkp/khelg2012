@@ -1,0 +1,25 @@
+                ____ ____  ____    _     ___ _  _______      _    
+               / ___|  _ \| __ )  | |   |_ _| |/ / ____|    / \   
+  *           | |  _| | | |  _ \  | |    | || ' /|  _|     / _ \  
+              | |_| | |_| | |_) | | |___ | || . \| |___   / ___ \ 
+               \____|____/|____/  |_____|___|_|\_\_____| /_/   \_\
+                                                                  
+                '     '    ____    ___   '    ______  
+         '                |****)  /*\*\      /*/****| *
+                  '    *  |**_*\ /*_*\*\ /\ /*/\****\ 
+   `                *     |*|_)*/*****\*V**V*/  ___)*|
+                          |****/*/   \*\*/\*/  |****/ 
+                                                      
+
+Agenda
+------
+
+ - GDB Intro, historik, etc
+ - Genomgång
+ - Fräcka grejer
+ - GDB ibland androider, äpplen och fönster
+ - Vanvettiga saker
+ - Lite laborationer
+ - Svar på frågor du förhoppningsvis ställt
+ - Ännu vanvettigare saker
+ - Öl?
