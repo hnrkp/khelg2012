@@ -1,0 +1,11 @@
+
+ - lab 1, något att stega igenom
+ - lab 2, något som krashar. gör bt, registertitt, trådar, etc.
+ - lab 2.5 attach, etc..? conditional breakpoints?
+ - lab 3, som 2 fast generera en core, eller bara ge en elf och corefil
+ - lab 4, hw watchpoints
+ - lab 5, non-stop laboration, kräver lite gtk och så
+ - lab 6, gdb remote
+ - lab 7, ????
+ - lab 8, profit
+
